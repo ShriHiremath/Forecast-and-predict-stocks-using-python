@@ -1,0 +1,6 @@
+user_credentials.csv
+user_credentials.db
+.env
+*.env
+__pycache__/
+*.pyc
